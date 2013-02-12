@@ -1,0 +1,15 @@
+5946263c0927c8433dda82abe8f95160 *DESCRIPTION
+9fdfeb11f7ddba6f3aab9aaa6b1ac5dd *NAMESPACE
+586181c78450d246f27668637f36cb27 *R/labeling.R
+7f3f2647f81ff2ec63bf38bb2f9d0ad1 *man/extended.Rd
+6fb514ae827563760986eb56d12c5bfd *man/extended.figures.Rd
+7d8dd010b2a582e0ad564aa9b563602a *man/gnuplot.Rd
+048deca8826a1e05a76d59820d593e82 *man/heckbert.Rd
+8f14a4ae6d1fab41341bd757ca9a352a *man/labeling-internal.Rd
+144b4169d8ca6a64b10a4f8b0ffb2180 *man/labeling-package.Rd
+58f640464bec1cf5c39a402d0a24bc34 *man/matplotlib.Rd
+1d90f8285a79afbbbcd8aef1c84baeae *man/nelder.Rd
+57602254b1bd33d2971059aecb64321f *man/rpretty.Rd
+c0035288ae1ac8c16ff1158e204cdb4c *man/sparks.Rd
+d9070c18836baa499a9d68fba55b75a0 *man/thayer.Rd
+1b346cfe702a42d4895af6f45567c288 *man/wilkinson.Rd
