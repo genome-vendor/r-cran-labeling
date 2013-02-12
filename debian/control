@@ -1,0 +1,14 @@
+Source: r-cran-labeling
+Section: gnu-r
+Priority: optional
+Maintainer: The Genome Institute <gmt@genome.wustl.edu>
+Build-Depends: r-base-dev, r-base-core, debhelper (>> 4.1.0)
+Homepage: http://cran.fhcrc.org/web/packages/labeling/index.html
+
+Package: r-cran-labeling
+Architecture: all
+Maintainer: Justin Talbot <jtalbot@stanford.edu>
+Description: Provides a range of axis labeling algorithms
+License: Artistic2.0
+Depends: r-base-core
+
